@@ -1,7 +1,29 @@
-[0m[[0minfo[0m] [0mPackaging /Users/matthewd/projects/scala-demo/target/scala-2.11/simple-spark-scala_2.11-1.0.jar ...[0m
+[0m[[0minfo[0m] [0mPackaging /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/simple-spark-scala_2.11-1.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
-[0m[[0mdebug[0m] [0m	SimpleApp$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/scala-demo/target/scala-2.11/classes/SimpleApp$.class[0m
 [0m[[0mdebug[0m] [0m	SimpleApp.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/scala-demo/target/scala-2.11/classes/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudyMaximum$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudyMaximum$.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudyMaximum.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudyMaximum.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudy$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudy$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudyMaximum$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudyMaximum$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudyMaximum$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudyMaximum$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudy$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudy$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudy$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudy$.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudyMaximum$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudyMaximum$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudy$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudy$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudy$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudy$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	TemperatureStudy.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/matthewd/projects/mp1/scala-demo/target/scala-2.11/classes/TemperatureStudy.class[0m
 [0m[[0minfo[0m] [0mDone packaging.[0m
